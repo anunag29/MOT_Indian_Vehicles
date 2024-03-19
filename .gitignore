@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+env/
+
+# Visual Studio Code
+.vscode/
+
+models/
+IDD_Dataset-20240305T184953Z-001.zip
